@@ -1,0 +1,61 @@
+.classBody h1{
+    color : blue;
+    text-align: center;
+}
+
+.classBody{
+    background-color: lightblue;
+}
+
+.classForm{
+    background-color: aliceblue;
+    margin: 3% 10%;
+}
+
+label{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+
+div{
+    text-align: center;
+}
+.classForm label{
+    text-align: right;
+}
+
+.classForm input{
+    text-align: left;
+}
+
+.tableAlign{
+text-align: right;
+vertical-align: top;
+width: 50%;
+
+}
+
+
+.tableAlignright{
+    text-align: left;
+    width: 50%;
+    }
+
+table{
+    align: center;
+    width: 100%;
+    border-spacing: 15px;
+    
+}
+
+button{
+    background-color: rgb(0, 255, 128);
+    color: rgb(221, 221, 212);
+    font-weight: bold;
+    padding-bottom: 10px;
+} 
+  
+.alignclass{
+    padding-top: 15px;
+}
